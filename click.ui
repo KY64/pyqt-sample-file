@@ -35,7 +35,7 @@
       <string notr="true">QPushButton {
 background: qlineargradient(x1:0, y0:0, x2:1, y2:1, stop:0 #4364F7, stop:1 #6FB1FC);
 border: none;
-border-radius: 18px;
+border-radius: 15px;
 padding: 10px;
 color: white;
 font: 11pt;
